@@ -1,102 +1,107 @@
 ---
-title: ONI Archive Node
+title: Orbital Communications Console
 ---
-```text
-UNSC FLEETCOM UPLINK........CONNECTED
-ONI SECTION III TERMINAL....ACTIVE
-SECURITY CLEARANCE..........SILVER-5
-AI MONITOR..................ONLINE
-```
+> [!info] Orbital Communications Console Uplink  
+> **Connection Status:** Connected
+> 
+> **Archive:** Colonial Reference Database
+> 
+> **Access Level:** Public
+> 
+> **Synchronization:** Local Planetary Archive
+> 
+> **Revision:** 1.0
+## The Rimworld
 
-# OFFICE OF NAVAL INTELLIGENCE
+Information relating to the planet, its history, and the surrounding orbital environment.
 
-## SECTION III // BLACK ARCHIVE
-
-> [!warning] CLASSIFIED MATERIAL
-> Unauthorized access subject to prosecution under UNSC Naval Security Code.
-
-> [!danger] REDACTED NOTICE
-> Portions of this archive remain restricted by order of Section III.
-
----
-
-# TERMINAL DIRECTORY
-
-## 01 // PERSONNEL DOSSIERS
-ACCESS: [[UNSC Occupational Specialties]]  
-ACCESS: [[Known Powers and Factions]]  
-ACCESS: [[Spartan Branch Information]]
+- [[Overview]]
+    
+- [[Geography]]
+    
+- [[Settlements]]
+    
+- [[Orbital Infrastructure]]
+    
 
 ---
 
-## 02 // STRATEGIC INTELLIGENCE
-ACCESS: [[Timeline]]  
-ACCESS: [[Overview]]  
-ACCESS: [[Threat Assessments]]
+## Biology
+
+Reference material covering the life native to, or commonly encountered on, the rimworld.
+
+- [[Xenotypes]]
+    
+- [[Animals]]
+    
+- [[Mechanoids]]
+    
+- [[Insectoids]]
+    
 
 ---
 
-## 03 // OPERATIONAL THEATER
-ACCESS: [[Mission Briefings]]  
-ACCESS: [[Session Reports]]  
-ACCESS: [[Armory]]  
+## Society
+
+Information relating to civilization, culture, and organized groups.
+
+- [[Factions]]
+    
+- [[Ideoligions]]
+    
+- [[Trade]]
+    
 
 ---
 
-## 04 // INFORMATION ARCHIVES
-ACCESS: [[Recovered Intelligence]]  
-ACCESS: [[Hostile Entities Field Guide]]  
-ACCESS: [[Glossary]]
+## Technology
+
+Reference material covering technology commonly encountered throughout the setting.
+
+- [[Weapons]]
+    
+- [[Armor]]
+    
+- [[Bionics]]
+    
+- [[Medicine]]
+    
+- [[Power]]
+    
+- [[Vehicles]]
+    
+- [[Spacecraft]]
+    
 
 ---
 
-# COMMAND INTERFACE
+## Reference
 
-```text
-> open strategic_intelligence
-> load threat_assessments
-> access blacksite_records
-> awaiting command...
-```
+General reference material.
 
----
-
-# ACTIVE INTELLIGENCE ALERTS
-
-- Colonial unrest escalating  
-- Covenant contact under review  
-- Priority directives remain active  
-- ONI surveillance assets mobilized
+- [[Timeline]]
+    
+- [[Glossary]]
+    
 
 ---
 
-# ARCHIVE STATUS
+## Referee
 
-```text
-ACCESS NODE STATUS.....ONLINE
-TACTICAL GRID..........LINKED
-ARCHIVE INTEGRITY......STABLE
-LAST BREACH............REDACTED
-```
+Material intended for referees.
 
----
-
-> [!info]
-> New operatives should begin with [[Overview]] before reviewing restricted intelligence.
-
----
-
-## ORIENTATION PROTOCOL
-
-Recommended review order:
-
-1. [[Overview]]  
-2. [[UNSC Occupational Specialties]]
-3. [[Armory]]
-4. [[Known Powers and Factions]]  
-5. [[Timeline]]  
-6. [[Threat Assessments]]
+- [[Running a RimWorld Campaign]]
+    
+- [[Random Encounters]]
+    
+- [[Settlement Generation]]
+    
+- [[Adventure Hooks]]
+    
+- [[NPCs]]
+    
 
 ---
 
-> *Per Mare, Per Terram, Per Constellatum.*
+> [!note]  
+> Traveller: Prometheus is intended to be used alongside the _Traveller Core Rulebook_ and other official Traveller publications. Unless otherwise noted, all game mechanics use the standard Traveller rules.
