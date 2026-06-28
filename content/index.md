@@ -3,7 +3,7 @@ title: Orbital Communications Console
 ---
 > [!info] Orbital Communications Console Uplink  
 > **Connection Status:** Connected
-> 
+>  
 > **Archive:** Colonial Reference Database
 > 
 > **Access Level:** Public
