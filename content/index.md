@@ -45,7 +45,7 @@ Reference material covering the life native to, or commonly encountered on, the 
 
 Information relating to civilization, culture, and organized groups.
 
-- [[Factions]]
+- [[Factions Directory]]
     
 - [[Ideoligions]]
     
@@ -79,7 +79,7 @@ Reference material covering technology commonly encountered throughout the setti
 
 General reference material.
 
-- [[Timeline]]
+- [[Galactic History]]
     
 - [[Glossary]]
     
