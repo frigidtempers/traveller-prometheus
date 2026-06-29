@@ -15,7 +15,7 @@ title: Orbital Communications Console
 
 Information relating to the planet, its history, and the surrounding orbital environment.
 
-- [[Overview]]
+- [[History of Prometheus]]
     
 - [[Geography]]
     
