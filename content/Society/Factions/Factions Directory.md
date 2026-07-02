@@ -1,5 +1,3 @@
-
-
 > [!info] Orbital Communications Console Uplink  
 > **Document Type:** Planetary Political Overview
 > 

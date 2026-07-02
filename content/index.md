@@ -30,7 +30,7 @@ Information relating to the planet, its history, and the surrounding orbital env
 
 Reference material covering the life native to, or commonly encountered on, the rimworld.
 
-- [[Xenotypes]]
+- [[Xenotypes Directory]]
     
 - [[Animals]]
     

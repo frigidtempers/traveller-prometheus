@@ -5,7 +5,7 @@
 > 
 > **Archive Status:** Active
 > 
-> **Scope:** Human Civilization
+> **Scope:** Milky Way Galaxy
 > 
 > **Source Reliability:** High
 > 
