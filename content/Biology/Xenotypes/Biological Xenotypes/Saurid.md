@@ -1,5 +1,3 @@
-# Saurid
-
 > [!info] Orbital Communications Console Uplink
 > **Document Type:** Xenotype Profile
 >

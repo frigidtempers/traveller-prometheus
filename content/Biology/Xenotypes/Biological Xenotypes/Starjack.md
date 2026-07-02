@@ -1,5 +1,3 @@
-# Starjack
-
 > [!info] Orbital Communications Console Uplink
 > **Document Type:** Xenotype Profile
 >
@@ -44,3 +42,24 @@ Many spend the majority of their lives away from planetary surfaces, developing 
 Although relatively uncommon on the planetary surface, Starjacks are regularly encountered aboard orbital stations and transport vessels servicing Prometheus.
 
 Many choose to remain in orbit throughout their careers, visiting the surface only when operational requirements demand it.
+
+---
+
+## Traveller Traits
+
+### Space Cowboy
+
++2 **EDU**, along with either:
+
+- +1 **Engineer** and **Electronics**, **or**
+- +1 **Mechanic** and **Astrogation**
+
+-2 **STR**
+
+### Suit of Lead
+
+Starjacks possess the equivalent of a permanently integrated **TL12 Vacc Suit** beneath their skin (without protective DM bonuses).
+
+This allows survival in vacuum for up to **6 hours**.
+
+After six hours, they begin suffocating, taking cumulative physical damage until rescued or deceased.

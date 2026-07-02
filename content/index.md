@@ -32,7 +32,7 @@ Reference material covering the life native to, or commonly encountered on, the 
 
 - [[Xenotypes Directory]]
     
-- [[Animals]]
+- [[Fauna]]
     
 - [[Mechanoids]]
     
@@ -54,7 +54,7 @@ Information relating to civilization, culture, and organized groups.
 
 ---
 
-## Technology
+## Equipment Catalogue
 
 Reference material covering technology commonly encountered throughout the setting.
 
@@ -65,12 +65,6 @@ Reference material covering technology commonly encountered throughout the setti
 - [[Bionics]]
     
 - [[Medicine]]
-    
-- [[Power]]
-    
-- [[Vehicles]]
-    
-- [[Spacecraft]]
     
 
 ---

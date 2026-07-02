@@ -1,5 +1,3 @@
-# Timeline
-
 > [!info] Orbital Communications Console Uplink  
 > **Document Type:** Historical Timeline
 > 

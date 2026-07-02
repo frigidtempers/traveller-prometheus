@@ -1,5 +1,3 @@
-# Waster
-
 > [!info] Orbital Communications Console Uplink
 > **Document Type:** Xenotype Profile
 >
@@ -44,3 +42,24 @@ Despite persistent social stigma, many Wasters have built prosperous communities
 Wasters are most commonly encountered within industrial settlements, abandoned facilities, and regions contaminated by previous human activity.
 
 Their resistance to hazardous environments frequently places them among the first settlers willing to reclaim otherwise uninhabitable territory.
+
+---
+
+## Traveller Traits
+
+### Toxic Genealogy
+
++2 **END**
+
+Immune to **pollution**, **disease**, and **overdose** effects.
+
+### Psychite Dependency
+
+To maintain **Toxic Genealogy**, Wasters must consume **Psychite** once per day.
+
+For each day without Psychite:
+
+- Lose **1 END**
+- Lose all immunities granted by **Toxic Genealogy**
+
+These penalties accumulate until Psychite is consumed.

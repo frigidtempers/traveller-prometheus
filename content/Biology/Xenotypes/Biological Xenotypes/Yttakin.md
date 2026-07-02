@@ -1,5 +1,3 @@
-# Yttakin
-
 > [!info] Orbital Communications Console Uplink
 > **Document Type:** Xenotype Profile
 >
@@ -44,3 +42,27 @@ Many work as hunters, ranchers, explorers, and animal handlers, occupations wher
 Yttakin are primarily found in Prometheus' northern mountain ranges and polar regions.
 
 They are highly respected among frontier settlements for their ability to survive conditions that would prove fatal to most other xenotypes.
+
+---
+
+## Traveller Traits
+
+### Beast-like Appearance
+
+Choose one of the following animal lineages.
+
+**Wolf**
+
++1 **STR** and **Recon**
+
+**Snow Leopard**
+
++1 **DEX** and **INT**
+
+**Polar Bear**
+
++1 **STR** and **END**
+
+### Bad Reputation
+
+-3 **SOC** when interacting with non-Yttakin.
