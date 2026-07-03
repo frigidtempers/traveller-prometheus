@@ -49,7 +49,7 @@ Pirate organizations operate throughout remote regions of the planet, targeting 
 
 ---
 
-### [[Corporate Houses]]
+### [[Corporate Houses Directory]]
 
 The Corporate Houses are powerful interstellar commercial organizations maintaining limited interests on Prometheus. Their activities include trade, resource acquisition, logistics, industrial investment, and scientific expeditions.
 

@@ -47,9 +47,7 @@ Information relating to civilization, culture, and organized groups.
 
 - [[Factions Directory]]
     
-- [[Ideoligions]]
-    
-- [[Trade]]
+- [[Ideoligious Groups]]
     
 
 ---
@@ -62,9 +60,9 @@ Reference material covering technology commonly encountered throughout the setti
     
 - [[Armor]]
     
-- [[Bionics]]
+- [[Augments]]
     
-- [[Medicine]]
+- [[Medical Equipment]]
     
 
 ---
