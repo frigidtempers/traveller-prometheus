@@ -202,7 +202,7 @@ Archotech devices represent the pinnacle of technological achievement. Their con
 
 **TL:** —
 
-**Cost:** Priceless
+**Cost:** Pancakes
 
 **Effect:**
 - Restores a missing arm.
