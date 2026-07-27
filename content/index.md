@@ -19,8 +19,6 @@ Information relating to the planet, its history, and the surrounding orbital env
     
 - [[Geography]]
     
-- [[Settlements]]
-    
 - [[Orbital Infrastructure]]
     
 
@@ -48,7 +46,8 @@ Information relating to civilization, culture, and organized groups.
 - [[Factions Directory]]
     
 - [[Ideoligious Groups]]
-    
+	
+- [[Planetary Origins]]
 
 ---
 
@@ -63,7 +62,10 @@ Reference material covering technology commonly encountered throughout the setti
 - [[Augments]]
     
 - [[Medical Equipment]]
-    
+	
+- [[Miscellaneous Consumables & Foodstuffs]]
+	
+- [[Standard of Living]]
 
 ---
 
