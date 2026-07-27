@@ -69,7 +69,7 @@ A specialized lineage exhibiting heightened archite activity at the expense of i
 
 -1 to all Characteristics while in **Sunlight**, +1 to all Characteristics otherwise. Immune to disease.
 
-Sanguophages gain no sustenance from conventional food or drugs and must instead feed upon **humanoid blood**.
+Sanguophages gain no sustenance from conventional food or drugs and must instead feed upon **humanoid blood** once a week.
 
 ---
 

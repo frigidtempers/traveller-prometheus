@@ -1,5 +1,3 @@
-# Xenotypes
-
 > [!info] Orbital Communications Console Uplink
 > **Document Type:** Biological Overview
 >
@@ -37,3 +35,9 @@ This archive classifies all recognized forms of humanity under the designation *
 
 - [[Android]]
 - [[Mechanent]]
+
+---
+
+## Optional Traits
+
+- [[Optional Traits]]

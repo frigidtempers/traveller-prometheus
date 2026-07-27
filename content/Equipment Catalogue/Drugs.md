@@ -18,11 +18,13 @@ Although generally considered safe when consumed responsibly, recreational subst
 
 ---
 
-### Beer
+### Alcohol
 
 *"The first beverage besides water ever consumed by Mankind."*
 
-**Cost:** Cr5
+**Cost:** Cr10
+
+**Mass:** .5kg
 
 **Effects**
 
@@ -68,6 +70,8 @@ Roll an **Average (8+) END** check. Every failure temporarily reduces **END** an
 
 **Cost:** Cr500
 
+**Mass:** .1kg
+
 **Effect**
 Temporary **+1 DEX** and **–1 END**.
 
@@ -91,6 +95,8 @@ Roll **Average (8+) END** once per day. Failure causes **1 temporary END** damag
 
 **Cost:** Cr200
 
+**Mass:** .1kg
+
 **Effect**
 For **1D hours**, gain **+1 END**, **+1 DEX**, **–1 INT**, ignore Fatigue caused by missed rest, and ignore pain.
 
@@ -113,6 +119,8 @@ Roll **Difficult (10+) END** daily. Failure causes **–1 SOC**, **–1 END**, *
 *"A fixture in many traditional low-industrial cultures."*
 
 **Cost:** Cr50
+
+**Mass:** —
 
 **Effect**
 For **2D hours**, gain **+1 END**, **–1 INT**, **–2 Initiative**, and Movement is halved. The user is considered **Fatigued** and enters a **Mellow** state.
@@ -149,6 +157,8 @@ Narcotics are powerful psychoactive substances whose use is heavily regulated—
 
 **Cost:** Cr100
 
+**Mass:** —
+
 **Effect:** Gain **+1 INT** and **+1 DEX**. Become immune to fear and panic for **1D hours**, and always act first during Initiative. After the effect ends, the user becomes **Fatigued** until they sleep or receive medical treatment. Taking another dose while Fatigued immediately renders the user unconscious.
 
 **Crash:** When the effects wear off, become **Fatigued** and make an **Average (8+) END** check. On a failure, suffer **–2 INT** and **–1 DEX** for **1D hours**.
@@ -166,6 +176,8 @@ Narcotics are powerful psychoactive substances whose use is heavily regulated—
 *"Chi Chi, get the yayo."*
 
 **Cost:** Cr200
+
+**Mass:** —
 
 **Effect:** Gain **+2 INT**, **+1 DEX**, and **+1 Initiative** for **1D hours**. Ignore all Fatigue for the duration.
 
@@ -187,6 +199,8 @@ Narcotics are powerful psychoactive substances whose use is heavily regulated—
 
 **Cost:** Cr300–600 (depending on legality and purity)
 
+**Mass:** —
+
 **Effect:** For **1D × 4 hours**, gain **+1 CHA** and **+1** to either **Art (Performance or Expression)** or **Science (Psionicology)**. Suffer **Banes** on all **INT-based skill checks** except the chosen Art or Science specialty. Users commonly experience vivid hallucinations throughout the duration.
 
 **Special:** After one hour, make a **Routine (6+) INT** check. On a success, gain **Creative Surge**, granting **+1** to the next **INT-** or **CHA-based** check made within the next **24 hours**. On a failure, no additional effect occurs.
@@ -197,7 +211,7 @@ Narcotics are powerful psychoactive substances whose use is heavily regulated—
 
 **Tolerance:** **+0** per use. Psilocaps do not build tolerance.
 
-**Addiction:** Psilocaps are **not addictive**.}
+**Addiction:** Psilocaps are **not addictive**.
 
 ---
 
@@ -212,6 +226,8 @@ Combat stimulants are engineered to enhance human performance in life-threatenin
 *"Developed for space marines in the early Hyper-War."*
 
 **Cost:** Cr750
+
+**Mass:** —
 
 **Effect:** For **1D hours**, gain **+2 DEX**, **+1 STR**, and **+1 Initiative**. Ignore pain and shock. Whenever you make an **Average (8+) END** check to resist Fatigue, roll with a **Boon**.
 
@@ -234,6 +250,8 @@ After **three consecutive failed withdrawal checks**, permanently suffer **–1 
 *"...Most universities call high-achievers 'wake-ups' because of the association with the drug."*
 
 **Cost:** Cr400
+
+**Mass:** —
 
 **Effect:** For **1D × 4 hours**, ignore all **Fatigue**, including Fatigue caused by missed rest. Gain **+1 DEX** and **+1 INT**, but suffer **–2** to all **CHA-based** checks.
 
