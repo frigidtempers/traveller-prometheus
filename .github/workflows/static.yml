@@ -32,3 +32,24 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
+deploy:
+  needs: build
+  runs-on: ubuntu-latest
+  environment:
+    name: github-pages
+
+  steps:
+    - id: deployment
+      uses: actions/deploy-pages@v4
+
+    - name: Notify Discord
+      if: success()
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      run: |
+        curl -H "Content-Type: application/json" \
+          -d "{
+            \"content\":\"🚀 **Traveller: Prometheus** has been deployed successfully!\n\n📦 Repository: ${{ github.repository }}\n🌿 Branch: ${{ github.ref_name }}\n📝 Commit: ${{ github.event.head_commit.message }}\n👤 Author: ${{ github.actor }}\n🌐 https://frigidtempers.github.io/traveller-prometheus/\"
+          }" \
+          "$DISCORD_WEBHOOK"
