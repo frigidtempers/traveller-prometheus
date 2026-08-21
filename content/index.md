@@ -76,7 +76,13 @@ General reference material.
 - [[Galactic History]]
     
 - [[Glossary]]
-    
+	
+- [[Rules Clarifications and FAQs]]
+	
+- [[Server Operations]]
+	
+- [[Community Guidelines]]
+	
 
 ---
 
