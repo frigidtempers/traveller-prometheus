@@ -51,6 +51,17 @@ Information relating to civilization, culture, and organized groups.
 
 ---
 
+## Colony Management
+
+Core rules, buildings, and upgrades for Colony Management for players.
+
+- [[Colony Management Core Rules]]
+	
+- [[Colony Buildings and Upgrades]]
+	
+
+---
+
 ## Equipment Catalogue
 
 Reference material covering technology commonly encountered throughout the setting.
@@ -69,7 +80,7 @@ Reference material covering technology commonly encountered throughout the setti
 
 ---
 
-## Reference
+## Reference and Player Resources
 
 General reference material.
 
@@ -83,7 +94,10 @@ General reference material.
 	
 - [[Community Guidelines]]
 	
-
+- [[Character Generation Guide]]
+	
+- [[Crafting System]]
+	
 ---
 
 ## Referee
@@ -100,8 +114,6 @@ Material intended for referees.
     
 - [[NPCs]]
 	
-test
----
 
 > [!note]  
 > Traveller: Prometheus is intended to be used alongside the _Traveller Core Rulebook_ and other official Traveller publications. Unless otherwise noted, all game mechanics use the standard Traveller rules.
