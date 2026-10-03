@@ -129,10 +129,14 @@ Purpose-built for siege warfare, the Termite carries breaching weaponry capable 
 
 - **Hits:** 16
 - **Locomotion:** Walker (ATV)
-- **Speed:** *(Use your existing stats from the document.)*
-- **Skills:** *(As listed in your document.)*
-- **Attacks:** *(As listed.)*
-- **Traits:** Armor (+12), ATV
+- **Speed:** 4m
+- **Skills:** Profession (labourer) 2, Recon 1
+- **Attacks:**  Head (Cutting Torch) 3D (AP 4)
+- **Manipulators:** Mining Equipment (Medium) Cubic Metres per hour (2); Cutting Torch (Advanced)
+- **Endurance:** 86 Hours
+- **Traits:** Armor (+10), ATV
+
+
 
 ---
 

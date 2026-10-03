@@ -61,6 +61,7 @@ A physically imposing lineage engineered for overwhelming strength and battlefie
 
 A specialized lineage exhibiting heightened archite activity at the expense of increased blood dependency.
 
+
 ---
 
 ## Sanguophage Traveller Traits
@@ -110,3 +111,5 @@ Gain **2 Charges** of Monstrous Form each day.
 While active, gain **bat-like wings** capable of flight up to your **Movement Score**, along with **Claws** functioning as a **Natural Weapon** with the same statistics as a **Claw Glove**.
 
 Charges are restored after feeding upon blood.
+
+---

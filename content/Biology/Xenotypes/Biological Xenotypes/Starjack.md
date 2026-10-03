@@ -49,7 +49,7 @@ Many choose to remain in orbit throughout their careers, visiting the surface on
 
 ### Space Cowboy
 
-+2 **EDU**, along with either:
++1 **EDU**, along with either:
 
 - +1 **Engineer** and **Electronics**, **or**
 - +1 **Mechanic** and **Astrogation**
@@ -58,7 +58,7 @@ Many choose to remain in orbit throughout their careers, visiting the surface on
 
 ### Suit of Lead
 
-Starjacks possess the equivalent of a permanently integrated **TL12 Vacc Suit** beneath their skin (without protective DM bonuses).
+Starjacks possess the equivalent of a permanently integrated **TL12 Vacc Suit** beneath their skin (without any of the protection bonuses).
 
 This allows survival in vacuum for up to **6 hours**.
 

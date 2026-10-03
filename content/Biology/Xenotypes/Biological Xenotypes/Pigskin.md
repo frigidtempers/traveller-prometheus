@@ -75,4 +75,4 @@ Can consume any organic material in place of food, including plants, raw meat, a
 
 ### Tusked *(Optional)*
 
-Gain **Tusks** as a **Natural Melee Weapon** dealing **2D Damage**. Boarskins with tusks must succeed on an **Average Language Check** when communicating with non-Pigskins.
+Gain **Tusks** as a **Natural Melee Weapon** dealing **2D Damage**. Boarskins with tusks take an additional -1 to their SOC characteristic at character creation.

@@ -47,10 +47,11 @@ Their expertise as trackers and hunters makes them valuable members of many fron
 
 ## Traveller Traits
 
-### Jurassic Resilience
+### Reptilian
 
-+1 **END**
++1 **DEX**, +1 **END**, -1 **INT**
 
 ### Razor Claws
 
 Saurids possess **Claws** functioning as a **Natural Melee Weapon** using the statistics of a **Hardened Claw Glove**.
+
