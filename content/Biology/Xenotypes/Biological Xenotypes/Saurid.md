@@ -55,3 +55,10 @@ Their expertise as trackers and hunters makes them valuable members of many fron
 
 Saurids possess **Claws** functioning as a **Natural Melee Weapon** using the statistics of a **Hardened Claw Glove**.
 
+### Camouflaged Scales
+
++1 to **Stealth**.
+
+### Cold-Blooded
+
+DM-1 to all physical checks while in cold environments.

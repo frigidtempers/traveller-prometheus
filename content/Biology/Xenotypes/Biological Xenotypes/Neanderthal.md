@@ -49,8 +49,8 @@ Many serve as hunters, trackers, laborers, and warriors whose knowledge of the w
 
 ### Primal Force
 
-+1 **STR** and **END**, **-1 INT** and **SOC**.
++1 **STR** and **END**, -1 **INT** and **SOC**.
 
 ### So Uncivilized
 
-Unable to use **TL 4+** technology without training, but gain **+1 Gun Combat (Archaic)** and all **Melee** skills.
+Unable to use **TL 4+** technology without training, but gain +1 to **Gun Combat (Archaic)**, **Survival**, and all **Melee** skills.

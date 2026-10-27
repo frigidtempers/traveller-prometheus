@@ -65,18 +65,26 @@ Uhlans rarely remain in military service for long. Many become elite mercenaries
 
 ### Perfect Soldier
 
-+1 to all Physical Characteristics (**STR, DEX, END**), along with **+1** to either **Gun Combat** or **Melee** while under the effects of **Go-Juice**.
+While under the effects of **Go-Juice**, gain +1 to all Physical Characteristics (**STR, DEX, END**) and +1 to either **Gun Combat** or **Melee** (chosen at character creation).
 
 ### Submission by Addiction
 
-Without **Go-Juice** for two days, a Hussar must succeed on a **Difficult (10+) INT Check** or suffer **-2** to all Combat Actions.
+After one day without **Go-Juice**, lose all **Perfect Soldier** bonuses. After two days without it, the Hussar must succeed on a **Difficult (10+) INT Check** each day or suffer -2 to all Combat Actions until dosed.
+
+**Go-Juice** is listed on **Miscellaneous Consumables & Foodstuffs**, and its cost is separate from Standard of Living. A dose lasts **24 hours** for a Hussar, who is never addicted to it.
+
+### Hussar Stare
+
+-1 **SOC**.
 
 ## Uhlan Traveller Traits
 
-### Juggernaut *(Replaces Perfect Soldier)*
+### Juggernaut _(Replaces Perfect Soldier and Hussar Stare)_
 
-+1 to all Physical Characteristics (**STR, DEX, END**), along with **+2** to either **Gun Combat** or **Melee** while under the effects of **Luciferium**, but suffer **-2 SOC**.
+While under the effects of **Luciferium**, gain +1 to all Physical Characteristics (**STR, DEX, END**) and +2 to either **Gun Combat** or **Melee** (chosen at character creation). Permanently suffer **-2 SOC**.
 
-### Sympathy for the Devil *(Replaces Submission by Addiction)*
+### Sympathy for the Devil _(Replaces Submission by Addiction)_
 
 Without **Luciferium** for longer than one day, the body begins to shut down. Uhlans take cumulative damage to their Characteristics beginning with **END** until death (1 on the first day, 2 on the second, 3 on the third, and so on).
+
+**Luciferium** is listed on **Miscellaneous Consumables & Foodstuffs**, and its cost is separate from Standard of Living. A dose lasts **1 day** for an Uhlan.

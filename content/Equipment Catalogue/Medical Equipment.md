@@ -23,9 +23,9 @@ Utilized in the manufacture of pharmaceuticals, both medicinal and recreational.
 
 **Mass:** 0.1 kg
 
-**Cost:** Cr100 per vial
+**Cost:** Cr100 per vial (**10 doses**)
 
-**Effect:** Neutroamine has no direct medical effect when administered to a patient. Instead, it is consumed as a crafting reagent in the production of pharmaceuticals, including antibiotics, stimulants, combat drugs, and other advanced medicines. Certain synthetic xenotypes and mechanoid repair procedures may also require Neutroamine at the Referee's discretion.
+**Effect:** Neutroamine has no direct medical effect when administered to a patient. Instead, it is consumed as a crafting reagent in the production of pharmaceuticals, including antibiotics, stimulants, combat drugs, and other advanced medicines. An Android must consume at least one dose of Neutroamine per day. This cost is separate from Standard of Living.
 
 ---
 

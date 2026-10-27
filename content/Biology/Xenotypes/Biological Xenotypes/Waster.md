@@ -55,7 +55,7 @@ Immune to **pollution**, **disease**, and **overdose** effects.
 
 ### Psychite Dependency
 
-To maintain **Toxic Genealogy**, Wasters must consume **Psychite** once per day.
+To maintain **Toxic Genealogy**, Wasters must consume **Psychite** once per day. Psychite is listed on **Miscellaneous Consumables & Foodstuffs**, and its cost is separate from Standard of Living. Wasters are never addicted to it.
 
 For each day without Psychite:
 

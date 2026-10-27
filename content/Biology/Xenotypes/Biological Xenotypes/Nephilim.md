@@ -65,13 +65,13 @@ Nephilim adapted for battlefield leadership through powerful psychically resonan
 
 ### Divine Nature
 
-Nephilim gain access to **Divine Nature**, allowing them to use angelic abilities by expending **Charges** (maximum **3** daily). Charges are regained through the consumption of **Holilly** and **Grace**.
+Nephilim gain access to **Divine Nature**, allowing them to use angelic abilities by expending **Charges** (maximum **3** daily). A dose of **Holilly** restores **1 Charge**. A dose of **Grace** restores **all 3 Charges**. Holilly and Grace are listed on **Miscellaneous Consumables & Foodstuffs**, and their cost is separate from Standard of Living.
 
 +1 **SOC**
 
 ### Angelic Fury
 
-Spend **1 Charge** to gain **+1 Gun Combat** and **Melee**. Must succeed on a **Difficult INT Check** or enter **Angelic Rage**, attacking random targets (including allies) for **1D3 Rounds**.
+Spend **1 Charge** to gain **+1 Gun Combat** and **Melee** until the end of the current combat. Must succeed on a **Difficult INT Check** or enter **Angelic Rage**, attacking random targets (including allies) for **1D3 Rounds**.
 
 ### Heavenly Flight
 
@@ -81,22 +81,22 @@ Spend **1 Charge** to fly up to your **Movement Score** using feathered wings. E
 
 ## Seraphim Traveller Traits
 
-### Lay on Hands *(Replaces Angelic Fury)*
+### Lay on Hands _(Replaces Angelic Fury)_
 
-Expend up to **3 Charges** to automatically pass Medic checks by transferring archites into an injured Traveller.
+Spend **1 Charge** to automatically pass one **Medic** check made on another Traveller by transferring archites into them (the result is a bare success, **Effect 0**). Each Traveller can benefit from this only once per day.
 
 ---
 
 ## Dominion Traveller Traits
 
-### Redemption *(Replaces Angelic Fury)*
+### Redemption _(Replaces Angelic Fury)_
 
-Once per day, expend all **Charges** to revive a Traveller who has been dead for no longer than **5 minutes**. The revived Traveller is **Unconscious**, and both the Traveller and the Nephilim become **Fatigued**. This ability is restored only after consuming **Grace**.
+Once per **week**, expend all **Charges** to revive a Traveller who has been dead for no longer than **5 minutes**. The revived Traveller is **Unconscious** and permanently loses **1 LUCK**. Both the Traveller and the Nephilim become **Fatigued**. This ability is restored only after consuming **Grace** and a full week has passed.
 
 ---
 
 ## Archangel Traveller Traits
 
-### Holy Hymn *(Replaces Angelic Fury)*
+### Holy Hymn _(Replaces Angelic Fury)_
 
-Expend up to **3 Charges**. Allies within eyesight gain **DM+1** to all attack rolls until the end of combat.
+Spend **1 Charge**. Allies who can see and hear the Archangel gain **DM+1** to all attack rolls until the end of combat. This does not stack with itself.

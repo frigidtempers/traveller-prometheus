@@ -68,9 +68,9 @@ A specialized lineage exhibiting heightened archite activity at the expense of i
 
 ### Vampiric
 
--1 to all Characteristics while in **Sunlight**, +1 to all Characteristics otherwise. Immune to disease.
++1 to **STR**, **DEX**, **END**, and **INT** while not in **Sunlight**. -1 to the same Characteristics while in **Sunlight**. Immune to disease.
 
-Sanguophages gain no sustenance from conventional food or drugs and must instead feed upon **humanoid blood** once a week.
+Sanguophages gain no sustenance from conventional food or drugs and must instead feed upon **blood** once every **three days**. Blood Packs and Hemogen Packs are listed on **Miscellaneous Consumables & Foodstuffs**, and their cost is separate from Standard of Living.
 
 ---
 
@@ -101,6 +101,10 @@ Once per day, produce a **10m Toxic Cloud** centered on yourself. Anyone inside,
 Alternatively, spit a corrosive secretion at a single target within **10m**, dealing **1D3 damage** that ignores armor.
 
 ---
+
+## Strigoi Traveller Traits
+
+### Monstrous Form
 
 ## Strigoi Traveller Traits
 

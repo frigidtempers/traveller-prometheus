@@ -67,11 +67,16 @@ Choose one of the following animal lineages.
 
 +1 **INT** and **SOC**
 
-**Custom Lineage Rules**
-	Yttakin can come in many different types of species that aren't inherently listed here. Should you wish to play a lineage that is based on an animal that isn't on this list please note the following:
-	1. Yttakin are primarily predator species meaning carnivores and omnivores. You can not play a Yttakin that is based on a prey animal.
-	2. As well as being predators they are specifically based on *land* predators so no fish or amphibious creatures
-	3. All custom lineages are subject to GM approval and the characteristic bonuses can only add up to a total 2 meaning it can either have a +2 in one characteristic or +1 in two characteristics. For clarity this improves the actual characteristic **NOT** the Dice Modifier.
+**Custom Lineage Rules** Yttakin can come in many different types of species that aren't inherently listed here. Should you wish to play a lineage that is based on an animal that isn't on this list please note the following:
+
+1. Yttakin are primarily predator species meaning carnivores and omnivores. You can not play a Yttakin that is based on a prey animal.
+2. As well as being predators they are specifically based on _land_ predators so no fish or amphibious creatures
+3. All custom lineages are subject to GM approval and the characteristic bonuses can only add up to a total 2 meaning it can either have a +2 in one characteristic or +1 in two characteristics. For clarity this improves the actual characteristic **NOT** the Dice Modifier.
+
+### Predator's Senses
+
++1 to **Recon** and **Animals**.
+
 ### Bad Reputation
 
--3 **SOC** when interacting with non-Yttakin.
+-2 DM to **SOC** based Skill checks when interacting with non-Yttakin.

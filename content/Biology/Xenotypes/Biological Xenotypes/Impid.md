@@ -51,8 +51,10 @@ Many work as caravan guides, hunters, prospectors, and independent explorers, wh
 
 ### Going the Distance
 
-+1 to **DEX** and **+2 Movement Score**, but **-1 INT** and **-1 STR**.
++1 to **DEX** and +2 **Movement Score**, but -1 **INT** and -1 **STR**.
 
 ### Hellfire Breath
 
-All Impids can spew fire from their mouths as a **Significant Action**. The Impid projects a **10-foot cone** of flame. Targets within the cone must succeed on a **DEX Check** or suffer **2D damage** and catch **On Fire**.
+As a **Significant Action**, an Impid can project a **3-metre cone** of flame. Targets within the cone must succeed on an **Average (8+) DEX Check** or suffer **2D damage** and catch **On Fire**.
+
+An Impid may use Hellfire Breath a number of times per day equal to **1 + END DM** (minimum 1). Uses are regained after a full night's rest.

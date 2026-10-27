@@ -27,13 +27,11 @@ The pinnacle of human civilization, glitterworlds are societies of abundance bui
 
 #### Utopian Elegance
 
-Gain **+1 SOC**.
-
-If aligned with the **Shattered Imperium**, your Traveller may qualify for **Nobility** during character creation.
+Gain **+1 SOC** and **+1 EDU**. If aligned with the **Shattered Imperium**, your Traveller may qualify for **Nobility** during character creation.
 
 #### Captured by Muses
 
-Gain **Art (Any)** at level 1.
+Gain **Art (Any)** at level 1 and **+1 Persuade**.
 
 ---
 
@@ -49,7 +47,7 @@ Immense city-planets whose populations long ago outpaced their infrastructure. E
 
 #### Hard Knocks
 
-Gain **+1 Streetwise** and **+1 Carouse**.
+Gain **+1 Streetwise**, **+1 Carouse** and **+1 END**.
 
 #### Urbworld Hospitality
 
@@ -72,11 +70,11 @@ Midworlds have mastered atmospheric flight and global industry but have yet to a
 
 #### Hunger for Knowledge
 
-Gain **+1 INT** and **+1 EDU**.
+Gain **+1 INT** and **+1 EDU**, and **+1** to one non-combat skill of your choice.
 
 #### Endless Possibility
 
-Gain **Jack of All Trades at Level 1**.
+Gain **Jack of All Trades at Level 1** and **+1** to one non-combat skill of your choice.
 
 ---
 
@@ -92,13 +90,16 @@ These worlds remain locked in feudal societies dominated by kingdoms, empires, o
 
 #### Chivalry
 
-Gain **+1 SOC** and **+1 Diplomat**.
+Gain **+1 SOC**, **+1 Diplomat** and **+1 Melee (Blade)**.
 
 #### Strong but Unknowing
 
 Gain **+2 STR** and **+2 END**.
 
 You may only use **Archaic Weapons** unless trained with more advanced weaponry.
+
+> [!Clarification]
+>  Trained means holding the relevant weapon skill at level 0 or higher.
 
 ---
 
@@ -114,11 +115,12 @@ Factory cities, sprawling foundries, and endless assembly lines define the indus
 
 #### Losing Your Chains
 
-Gain **+1 STR** and **+1 END**.
+Gain **+1 STR**, **+1 END** and **+1 Profession (any labour trade)**.
 
 #### An Injury to One
 
-Gain **+1 Mechanic** and **+1 Profession**.
+Gain **+1 Mechanic** and **+1 Profession (any labour trade)**.
+
 
 ---
 

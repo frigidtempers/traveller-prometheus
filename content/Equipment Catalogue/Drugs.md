@@ -220,31 +220,80 @@ Narcotics are powerful psychoactive substances whose use is heavily regulated—
 Combat stimulants are engineered to enhance human performance in life-threatening situations. Originally developed for military personnel, emergency responders, and hazardous industrial workers, these drugs temporarily push the body beyond its natural limits at the cost of significant physical strain. While highly effective, repeated use frequently results in dependency, debilitating withdrawal, or permanent physiological damage.
 
 ---
-
 ### Go-Juice
 
-*"Developed for space marines in the early Hyper-War."*
+_"Every muscle fires at once. Nobody mentions the morning after."_
 
-**Cost:** Cr750
+A military combat stimulant and painkiller developed for engineered soldiers.
 
-**Mass:** —
+**TL:** 9 **Mass:** 0.1kg **Cost:** Cr60 per dose
 
-**Effect:** For **1D hours**, gain **+2 DEX**, **+1 STR**, and **+1 Initiative**. Ignore pain and shock. Whenever you make an **Average (8+) END** check to resist Fatigue, roll with a **Boon**.
+**Effect:** For **16 hours** the user gains **+3 Movement** and **DM+1 to all attack rolls**, and ignores the first **-2** of DM penalties caused by damage. A second dose taken while the first is active extends the duration by 16 hours (maximum 32 hours).
 
-**Crash:** After the duration expires, become **Fatigued** and make a **Difficult (10+) END** check. On a failure, suffer **–2 DEX** and halve your Movement for **1D hours**.
+**Addiction:** Roll 2D6 each time a dose is taken. On a **2**, the Traveller becomes addicted. An addicted Traveller must take a dose at least once every **3 days** or suffer withdrawal: **DM-2 to all checks** and **Movement is halved** until dosed. An addiction ends after **10 days** without a dose.
 
-**Tolerance:** Gain **+3 Tolerance** per use. At **10+**, make a **Difficult (10+) END** check to avoid addiction. At **15+**, addiction is automatic. Tolerance decreases by **1** every **10 days** without use.
+**Hussars** are never addicted. A dose lasts **24 hours** for a Hussar, and powers **Perfect Soldier** in place of the effects above.
 
-**Addiction:** If used more than once every **48 hours**, make a **Difficult (10+) END** check. On a failure, become addicted.
+Fabricated with **Science (Chemistry)**.
 
-**Withdrawal:** Make a **Difficult (10+) END** check once per day. On a failure, suffer **–2 STR**, **–2 DEX**, become **Fatigued**, and suffer **Banes** on **Melee** and **Gun Combat** checks.
+---
+### Grace
 
-After **three consecutive failed withdrawal checks**, permanently suffer **–1 DEX**.
+_"Everything, all at once."_
 
-**Special (Hussars):** While under the effects of Go-Juice, Hussars gain **+1** to either **Gun Combat** or **Melee**. Missing a dose for **2 or more days** triggers the **Submission by Addiction** trait.
+A concentrated sacrament that fully restores a Nephilim's strength.
+
+**TL:** 12 **Mass:** 0.1kg **Cost:** Cr400 per dose
+
+**Effect:** Restores **all 3 Charges** to a **Nephilim**, and is required to use **Redemption**. It has no effect on other xenotypes. Fabricated with **Science (Chemistry)**.
 
 ---
 
+### Holilly
+
+_"A small taste of the divine."_
+
+A rare herbal preparation prized by Nephilim.
+
+**TL:** 5 **Mass:** 0.1kg **Cost:** Cr150 per dose
+
+**Effect:** Restores **1 Charge** to a **Nephilim**. It has no effect on other xenotypes. Holilly **cannot be fabricated**. It is obtained through trade, quests, or salvage.
+
+---
+### Luciferium
+
+_"The cure is the leash."_
+
+A concoction of mechanites that dramatically improves the body's functioning in every way, and heals old wounds. There is no way to remove the mechanites once they are taken.
+
+**TL:** 12 **Mass:** 0.1kg **Cost:** Cr200 per dose
+
+**Effect:** The user gains **DM+1 to END checks** and ignores the first **-1** of DM penalties caused by damage. **One permanent injury, scar, or chronic ailment is healed every 30 days.** Lost limbs are not restored.
+
+**Addiction:** The first dose **always** causes a permanent addiction, and it cannot be cured. The user must take a dose at least once every **6 days**. From the seventh day without one they suffer withdrawal: **DM-2 to all checks**, a **Difficult (10+) INT check** each day or fly into a berserk rage for **1D rounds** (attacking the nearest creature), and cumulative damage to their Characteristics as described under **Sympathy for the Devil** (1 on the seventh day, 2 on the eighth, and so on). Only more doses stop it.
+
+**Uhlans** metabolise Luciferium far faster: a dose lasts **1 day**, and it powers **Juggernaut** in place of the effects above.
+
+Luciferium **cannot be fabricated**. It is obtained through trade, quests, or salvage.
+
+---
+### Psychite
+
+_"Tastes like tea. Costs like a habit."_
+
+A refined psychoactive compound taken as tea, flake, or tablet.
+
+**TL:** 5 **Mass:** 0.1kg **Cost:** Cr20 per dose
+
+**Effect:** For **6 hours** the user is euphoric and clear-headed. They ignore the first **-1** of DM penalties caused by damage and gain a **Boon** on checks to resist Fatigue from lack of rest.
+
+**Addiction:** Roll 2D6 each time a dose is taken. On a **2**, the Traveller becomes addicted. An addicted Traveller must take a dose at least once every **3 days** or suffer withdrawal: **DM-1 to all checks** and **Fatigued** until dosed. An addiction ends after **15 days** without a dose.
+
+**Wasters** are never addicted. For them Psychite sustains **Toxic Genealogy** in place of the effect above.
+
+Fabricated with **Science (Chemistry)**.
+
+---
 ### Wake-Up
 
 *"...Most universities call high-achievers 'wake-ups' because of the association with the drug."*

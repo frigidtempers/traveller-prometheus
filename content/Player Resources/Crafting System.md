@@ -25,17 +25,16 @@ Determine the item you want to fabricate and find its normal **Cost** and **Tech
 
 The item's Tech Level determines its base **Complexity**.
 
-| Tech Level | Complexity | Difficulty |
-|---|---:|---|
-| TL0–3 | 0 | Simple (4+) |
-| TL4–5 | 1 | Easy (6+) |
-| TL6–7 | 2 | Routine (8+) |
-| TL8–9 | 3 | Average (10+) |
-| TL10–11 | 4 | Difficult (12+) |
-| TL12–13 | 5 | Very Difficult (14+) |
-| TL14–15 | 6 | Formidable (16+) |
-| TL16+ | 7 | Impossible (18+) |
-
+| Tech Level | Complexity | Difficulty           |
+| ---------- | ---------: | -------------------- |
+| TL0–3      |          0 | Easy (4+)            |
+| TL4–5      |          1 | Routine (6+)         |
+| TL6–7      |          2 | Average (8+)         |
+| TL8–9      |          3 | Difficult (10+)      |
+| TL10–11    |          4 | Very Difficult (12+) |
+| TL12–13    |          5 | Formidable (14+)     |
+| TL14–15    |          6 | Formidable (16+)     |
+| TL16+      |          7 | Impossible (18+)     |
 The GM may adjust an item's Complexity when its actual construction is substantially simpler or more complicated than its Tech Level would normally suggest.
 
 ---
@@ -100,7 +99,7 @@ A Traveller wants to fabricate a **Laser Rifle**.
 **Cost:** Cr6,000  
 **Tech Level:** TL10
 
-A TL10 item has **Complexity 4**, making the check **Difficult (12+)**.
+A TL10 item has **Complexity 4**, making the check **Very Difficult (12+)**.
 
 The Traveller must provide materials worth:
 

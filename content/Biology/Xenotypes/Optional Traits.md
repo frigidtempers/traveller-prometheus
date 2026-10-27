@@ -11,7 +11,7 @@
 
 Optional Traits represent unusual circumstances surrounding a Traveller's birth, upbringing, or appearance. They are entirely optional and exist to help further customize a character beyond their Planetary Origin, Xenotype, and Career.
 
-Unless otherwise noted, a Traveller may select **one** Optional Trait during character creation with the Referee's approval.
+Unless otherwise noted, a Traveller may select **one** Optional Trait. Xenotypes other than the **Baseliner** must **replace one of their Xenotype's Traveller Traits** to take it, and lose that trait's benefits and drawbacks. The replaced trait must be one that grants a benefit; a pure drawback cannot be traded away. Baseliners may take one Optional Trait without replacing anything (see **Diaspora**). All choices are subject to Referee approval.
 
 ---
 

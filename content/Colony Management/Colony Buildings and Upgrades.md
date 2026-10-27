@@ -8,75 +8,14 @@ Each Housing Upgrade provides a fixed increase to Population Capacity.
 
 ---
 
-## Basic Housing
-
-### Homestead Housing
-
-> **Tech Level:** TL3  
-> **Cost:** Cr25,000  
-> **Population Capacity:** +5  
-> **Construction Time:** 1 Month
-
-Simple permanent housing suitable for a small number of residents.
-
----
-
-### Residential Block
-
-> **Tech Level:** TL5  
-> **Cost:** Cr75,000  
-> **Population Capacity:** +10  
-> **Construction Time:** 2 Months
-
-A larger residential structure designed to house multiple families or groups of workers.
-
----
-
-## Advanced Housing
-
-### Modular Housing
-
-> **Tech Level:** TL7  
-> **Cost:** Cr150,000  
-> **Population Capacity:** +20  
-> **Construction Time:** 2 Months
-
-Prefabricated residential units that can be rapidly assembled and expanded as the colony grows.
-
----
-
-### High-Density Housing
-
-> **Tech Level:** TL9  
-> **Cost:** Cr300,000  
-> **Population Capacity:** +50  
-> **Construction Time:** 3 Months
-
-Efficient residential construction designed to accommodate large populations within a relatively small footprint.
-
----
-
-## High-Tech Housing
-
-### Automated Residential Complex
-
-> **Tech Level:** TL12  
-> **Cost:** Cr750,000  
-> **Population Capacity:** +100  
-> **Construction Time:** 4 Months
-
-An advanced residential complex incorporating automated environmental systems and domestic infrastructure.
-
----
-
-### Arcology Housing
-
-> **Tech Level:** TL15  
-> **Cost:** Cr2,000,000  
-> **Population Capacity:** +250  
-> **Construction Time:** 6 Months
-
-A highly advanced residential structure capable of supporting a large population with minimal external infrastructure.
+| Building                      | TL  | Capacity | Cost      | Power Req. | Time to Construct |
+| ----------------------------- | --- | -------- | --------- | ---------- | ----------------- |
+| Homestead Housing             | 3   | +5       | Cr25,000  | 1          | 1 Month           |
+| Residential Block             | 5   | +10      | Cr45,000  | 2          | 2 Months          |
+| Modular Housing               | 7   | +20      | Cr80,000  | 4          | 2 Months          |
+| High-Density Housing          | 9   | +50      | Cr175,000 | 8          | 3 Months          |
+| Automated Residential Complex | 12  | +100     | Cr325,000 | 16         | 4 Months          |
+| Arcology Housing              | 15  | +250     | Cr750,000 | 32         | 5 Months          |
 
 ---
 
@@ -101,75 +40,14 @@ Food-producing buildings increase the colony's total Food production. Most food 
 
 ---
 
-## Basic Agriculture
-
-### Small Farm
-
-> **Tech Level:** TL3  
-> **Cost:** Cr25,000  
-> **Food:** +3  
-> **Construction Time:** 1 Month
-
-A small agricultural operation capable of producing enough food to support a handful of colonists.
-
----
-
-### Large Farm
-
-> **Tech Level:** TL3  
-> **Cost:** Cr75,000  
-> **Food:** +6  
-> **Construction Time:** 2 Months
-
-A larger agricultural operation capable of supporting a growing colony.
-
----
-
-## Advanced Agriculture
-
-### Irrigated Farm
-
-> **Tech Level:** TL5  
-> **Cost:** Cr100,000  
-> **Food:** +9  
-> **Construction Time:** 2 Months
-
-An improved agricultural operation using controlled irrigation and more efficient farming techniques.
-
----
-
-### Hydroponics Facility
-
-> **Tech Level:** TL7  
-> **Cost:** Cr150,000  
-> **Food:** +12  
-> **Construction Time:** 3 Months
-
-An enclosed agricultural facility capable of producing food without relying entirely on conventional farmland.
-
----
-
-## High-Tech Agriculture
-
-### Advanced Hydroponics
-
-> **Tech Level:** TL10  
-> **Cost:** Cr300,000  
-> **Food:** +18  
-> **Construction Time:** 4 Months
-
-A highly efficient hydroponic system using advanced environmental controls and automated cultivation.
-
----
-
-### Automated Agriculture
-
-> **Tech Level:** TL12  
-> **Cost:** Cr750,000  
-> **Food:** +24  
-> **Construction Time:** 5 Months
-
-A largely automated agricultural complex designed to provide a reliable food supply with minimal labour.
+| Building              | TL  | Food | Cost      | Power Req. | Time to Construct |
+| --------------------- | --- | ---- | --------- | ---------- | ----------------- |
+| Small Farm            | 3   | +3   | Cr25,000  | 0          | 1 Month           |
+| Large Farm            | 3   | +6   | Cr45,000  | 0          | 2 Months          |
+| Irrigated Farm        | 5   | +9   | Cr62,500  | 1          | 2 Months          |
+| Hydroponics Facility  | 7   | +12  | Cr80,000  | 2          | 3 Months          |
+| Advanced Hydroponics  | 10  | +18  | Cr115,000 | 4          | 4 Months          |
+| Automated Agriculture | 12  | +24  | Cr150,000 | 8          | 5 Months          |
 
 ---
 
@@ -190,75 +68,14 @@ Power-producing buildings increase the colony's total Power production. Most pow
 
 ---
 
-## Basic Power
-
-### Small Generator
-
-> **Tech Level:** TL3  
-> **Cost:** Cr25,000  
-> **Power:** +3  
-> **Construction Time:** 1 Month
-
-A basic generator capable of providing electricity to a small colony.
-
----
-
-### Generator Array
-
-> **Tech Level:** TL3  
-> **Cost:** Cr75,000  
-> **Power:** +6  
-> **Construction Time:** 2 Months
-
-Multiple generators operating together to provide reliable power for a growing colony.
-
----
-
-## Advanced Power
-
-### Solar Array
-
-> **Tech Level:** TL5  
-> **Cost:** Cr100,000  
-> **Power:** +9  
-> **Construction Time:** 2 Months
-
-A large array of photovoltaic panels providing renewable electrical power.
-
----
-
-### Wind Farm
-
-> **Tech Level:** TL6  
-> **Cost:** Cr150,000  
-> **Power:** +12  
-> **Construction Time:** 3 Months
-
-A collection of wind turbines providing a steady source of renewable energy where local conditions permit.
-
----
-
-## High-Tech Power
-
-### Fusion Generator
-
-> **Tech Level:** TL8  
-> **Cost:** Cr300,000  
-> **Power:** +18  
-> **Construction Time:** 4 Months
-
-A compact fusion reactor capable of providing substantial power with minimal fuel requirements.
-
----
-
-### Advanced Fusion Plant
-
-> **Tech Level:** TL12  
-> **Cost:** Cr750,000  
-> **Power:** +24  
-> **Construction Time:** 5 Months
-
-A highly advanced fusion installation capable of supplying power to a large and technologically sophisticated colony.
+| Building              | TL  | Power | Cost      | Time to Construct |
+| --------------------- | --- | ----- | --------- | ----------------- |
+| Small Generator       | 5   | +3    | Cr25,000  | 1 Month           |
+| Generator Array       | 5   | +6    | Cr45,000  | 2 Months          |
+| Solar Array           | 7   | +9    | Cr62,500  | 2 Months          |
+| Wind Farm             | 7   | +12   | Cr80,000  | 3 Months          |
+| Fusion Generator      | 10  | +18   | Cr115,000 | 4 Months          |
+| Advanced Fusion Plant | 13  | +24   | Cr150,000 | 5 Months          |
 
 ---
 
@@ -279,75 +96,14 @@ Most healthcare infrastructure provides Healthcare in increments of 3.
 
 ---
 
-## Basic Healthcare
-
-### Medical Clinic
-
-> **Tech Level:** TL3  
-> **Cost:** Cr25,000  
-> **Healthcare:** +3  
-> **Construction Time:** 1 Month
-
-A basic medical facility capable of providing routine treatment and emergency care.
-
----
-
-### Medical Centre
-
-> **Tech Level:** TL4  
-> **Cost:** Cr75,000  
-> **Healthcare:** +6  
-> **Construction Time:** 2 Months
-
-An expanded medical facility capable of supporting a larger population and a wider range of medical needs.
-
----
-
-## Advanced Healthcare
-
-### Hospital
-
-> **Tech Level:** TL6  
-> **Cost:** Cr150,000  
-> **Healthcare:** +9  
-> **Construction Time:** 3 Months
-
-A fully equipped hospital providing comprehensive medical treatment and surgical care.
-
----
-
-### Advanced Hospital
-
-> **Tech Level:** TL8  
-> **Cost:** Cr300,000  
-> **Healthcare:** +12  
-> **Construction Time:** 4 Months
-
-A technologically advanced hospital equipped to handle serious injuries, complex procedures, and long-term treatment.
-
----
-
-## High-Tech Healthcare
-
-### Automated Medical Centre
-
-> **Tech Level:** TL10  
-> **Cost:** Cr750,000  
-> **Healthcare:** +18  
-> **Construction Time:** 5 Months
-
-An advanced medical facility incorporating automated diagnostic and treatment systems.
-
----
-
-### Advanced Medical Complex
-
-> **Tech Level:** TL12  
-> **Cost:** Cr1,500,000  
-> **Healthcare:** +24  
-> **Construction Time:** 6 Months
-
-A comprehensive medical complex capable of providing advanced treatment to a large population.
+| Building                 | TL  | Medic Skill | Power Req. | Cost      | Time to Construct |
+| ------------------------ | --- | ----------- | ---------- | --------- | ----------------- |
+| Medical Clinic           | 3   | 3           | 1          | Cr30,000  | 1 Month           |
+| Medical Centre           | 5   | 6           | 2          | Cr54,000  | 2 Months          |
+| Hospital                 | 6   | 9           | 4          | Cr75,000  | 2 Months          |
+| Advanced Hospital        | 8   | 12          | 8          | Cr96,000  | 3 Months          |
+| Automated Medical Centre | 10  | 18          | 16         | Cr138,000 | 4 Months          |
+| Advanced Medical Complex | 12  | 24          | 32         | Cr180,000 | 5 Months          |
 
 ---
 

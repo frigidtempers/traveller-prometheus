@@ -58,7 +58,7 @@ Unlike conventional Androids, Awakened Androids are no longer constrained by man
 Because the Awakening process cannot be intentionally reproduced, Awakened Androids remain exceptionally rare. Their existence continues to fuel debate regarding artificial consciousness, legal personhood, and whether true self-awareness can emerge from manufactured intelligence.
 
 >[!info] Xenotype Note:
->Players seeking to play as an Awakened Android must choose to play as an Android and succeed on a DM 11+ INT check this can be done at any point during the course of their Career Terms however benefits are not gained until Awakening is achieved.
+>Players seeking to play as an Awakened Android must choose to play as an Android and succeed on a DM 12+ INT check this can be done at any point during the course of their Career Terms however benefits are not gained until Awakening is achieved.
 
 ---
 
@@ -66,7 +66,7 @@ Because the Awakening process cannot be intentionally reproduced, Awakened Andro
 
 ### Synthetic Construction
 
-Androids do not require food or water. Instead, they must consume at least one dose of **Neutroamine** each day.
+Androids do not require food or water. Instead, they must consume at least one dose of **Neutroamine** each day. Neutroamine is listed on the **Medical Equipment** page, and its cost is separate from Standard of Living.
 
 Androids do not require sleep and are immune to the effects of aging.
 

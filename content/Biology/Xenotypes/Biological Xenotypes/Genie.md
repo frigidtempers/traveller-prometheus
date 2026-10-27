@@ -49,12 +49,12 @@ Those who settle on the planet are typically employed by Corporate Houses, scien
 
 ### Engineered Genius
 
-+1 to INT and either +1 to Electronics and Science, or +1 to Engineering and Mechanics.
++1 to **INT** and **EDU**, and either +1 to **Electronics (Any)**  and **Science (Any)**, or +1 to **Engineer (Any)** and **Mechanic**.
 
 ### Fragile
 
--2 END
+-1 **END**
 
 ### Pariah
 
--1 SOC
+-1 **SOC**

@@ -49,8 +49,12 @@ Most Boglegs encountered on the planet work as independent merchants, caravan op
 
 ### Art of the Deal
 
-+1 to Admin and Broker
++1 to **Admin** and **Broker**.
 
 ### Disturbing Appearance
 
--1 to Social Standing, +1 to Persuasion checks involving Intimidation.
+-1 to **SOC**, +1 to **Persuade** checks involving Intimidation.
+
+### Marsh-Bred
+
+DM+2 to **END** checks to resist poison, toxins, and pollution.

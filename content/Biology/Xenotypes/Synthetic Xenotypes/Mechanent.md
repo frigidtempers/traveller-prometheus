@@ -49,7 +49,7 @@ Mining operations, orbital facilities, Corporate House installations, and major 
 
 ## Traveller Traits
 
-### Easily Modifiable *(Replaces Synthetic Construction)*
+### Easily Modifiable
 
 Once per day, choose **one** of the following modifications:
 
@@ -57,8 +57,8 @@ Once per day, choose **one** of the following modifications:
 - **Enhanced Plating:** +1 **STR** and **END**
 - **Ultra-Light Materials:** +1 **DEX** and **Movement Score**
 - **Translation Software:** +1 **SOC** and the ability to speak all known human languages.
-- **Protocol Droid:** +1 to **Admin**, **Advocate**, and **Diplomat**.
-- **Repair Subroutines:** +1 to **Engineer**, **Mechanic**, and **Electronics**.
+- **Protocol Droid:** +1 to **Advocate** and **Diplomat**.
+- **Repair Subroutines:** +1 to **Engineer** and **Mechanic**.
 
 ### Battery Operated
 

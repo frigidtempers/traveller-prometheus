@@ -49,8 +49,12 @@ Many work within the planet's industrial settlements, while others operate as in
 
 ### Earthshaker
 
-+1 to STR and END
++1 to **STR** and **END**
+
+### Deep Dweller
+
+Ignore DM penalties caused by dim light and low-light conditions. +1 to **Prospecting**.
 
 ### Photosensitive
 
--1 to Sight-Based Scout Checks in bright areas.
+-1 to **Recon** checks that rely on sight while in bright areas.

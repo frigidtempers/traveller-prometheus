@@ -23,7 +23,7 @@ Although originally developed for orbital labor, Starjacks now occupy nearly eve
 
 ## Biology
 
-Starjacks possess dense musculature, enhanced cardiovascular efficiency, and improved resistance to radiation and decompression-related trauma.
+Starjacks possess a lean, wiry musculature, enhanced cardiovascular efficiency, and improved resistance to radiation and decompression-related trauma.
 
 Generations of genetic refinement have also produced heightened spatial awareness and exceptional dexterity, qualities highly valued aboard spacecraft and orbital facilities.
 
@@ -46,6 +46,8 @@ Many choose to remain in orbit throughout their careers, visiting the surface on
 ---
 
 ## Traveller Traits
+
+### Space Cowboy
 
 ### Space Cowboy
 

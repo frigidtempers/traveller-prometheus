@@ -63,17 +63,19 @@ Although genetically similar to Highmates, the two xenotypes have developed dist
 
 ### Born Socialite
 
-+1 to SOC, Persuade, Carouse, and Art.
++1 to **SOC**, **Persuade**, **Carouse**, and **Art (Performance)**.
 
 ### Submissive by Design
 
-Must succeed a Difficult INT Check or receive -2 to all Combat Actions.
+-2 to all **attack rolls** against living, sapient creatures. Other Combat Actions (dodging, aiming, reloading, moving, and so on) are unaffected.
+
+At the start of a combat, the Highmate may attempt a **Difficult (10+) INT Check**. On a success, the inhibitor is suppressed for the rest of that combat.
 ### Lowmate Traveller Traits
 
-#### Siren's Call *(Replaces Born Socialite)*
+### Siren's Call _(Replaces Born Socialite)_
 
-+1 to Persuade, Carouse, and Art (Performance).
++1 to **Persuade**, **Carouse**, and **Art (Performance)**.
 
-#### Imperfect Copy *(Replaces Submissive by Design)*
+### Imperfect Copy _(Replaces Submissive by Design)_
 
 Created without genetic violence inhibitors, Lowmates may freely engage in combat without suffering the penalties associated with **Submissive by Design**.

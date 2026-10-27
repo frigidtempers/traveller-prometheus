@@ -163,26 +163,11 @@ The Referee may use the normal Traveller mortgage rules to determine the exact p
 
 # Standard of Living
 
-*Prometheus* uses the **Standard of Living** rules from the *Traveller Core Rulebook*.
+Prometheus uses the Standard of Living rules from the Traveller Core Rulebook, with additions. See [[Standard of Living]] for the costs and for the specialised dietary requirements that certain xenotypes must pay for separately.
 
-Standard of Living represents the ordinary expenses required to maintain a Traveller's lifestyle, including food, accommodation, utilities, clothing, and other routine necessities.
+Specialised requirements such as Blood Packs, Psychite, Neutroamine, Go-Juice and Luciferium are never covered by Standard of Living.
 
-| Standard of Living | Cost/Month | Suitable For |
-|---|---:|---:|
-| Very Poor | Cr400 | SOC 2 |
-| Poor | Cr800 | SOC 4 |
-| Low | Cr1,000 | SOC 5 |
-| Average | Cr1,200 | SOC 6 |
-| Good | Cr1,500 | SOC 7 |
-| High | Cr2,000 | SOC 8 |
-| Very High | Cr2,500 | SOC 10 |
-| Rich | Cr5,000 | SOC 12 |
-| Very Rich | Cr12,000 | SOC 14 |
-| Ludicrously Rich | Cr20,000+ | SOC 15 |
-
-A Traveller's Standard of Living covers ordinary food and living expenses while residing in civilized areas.
-
-Specialized requirements, such as the Sanguophage's need for blood or a Waster's need for Psychite, are **not** automatically covered by Standard of Living unless specifically stated otherwise.
+This also removes the duplicated cost table.
 
 ---
 

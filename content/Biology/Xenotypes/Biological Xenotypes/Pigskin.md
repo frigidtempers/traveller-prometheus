@@ -59,20 +59,22 @@ Although comparatively uncommon, Boarskins are respected for their courage, phys
 
 ### Thick Skin
 
-+1 to **STR**, **END**, and **Explosives**, **-2 DEX**, and **-1 INT**.
++1 to **STR**, +2 to **END** and +1 to **Explosives**, -1 **DEX**, and -1 **INT**.
+
+### Redundant Organs
+
+Natural healing is doubled, and **Medic** checks made to treat a Pigskin gain **DM+2**.
 
 ### Iron Stomach
 
 Can consume any organic material in place of food, including plants, raw meat, and humanoid flesh.
 
----
-
 ## Boarskin Traveller Traits
 
-### Boarish *(Replaces Thick Skin)*
+### Boarish _(Replaces Thick Skin)_
 
-+2 **STR**, +2 **END**, **-1 DEX**, **-3 SOC**.
++2 **STR**, +2 **END**, -1 **DEX**, -2 **SOC**.
 
-### Tusked *(Optional)*
+### Tusked _(Optional)_
 
 Gain **Tusks** as a **Natural Melee Weapon** dealing **2D Damage**. Boarskins with tusks take an additional -1 to their SOC characteristic at character creation.

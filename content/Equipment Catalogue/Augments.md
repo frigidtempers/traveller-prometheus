@@ -74,8 +74,8 @@ Modern cybernetic replacements not only restore lost function but frequently exc
 
 **Effect:**
 - Restores sight.
-- Grants **DM+1** to Recon and ranged attacks relying on vision. (Does not stack.)
-
+- Grants **DM+1** to Recon.
+- Grants **DM+1** to ranged attacks relying on vision against targets **beyond 50 metres**. (Does not stack.)
 ---
 
 ### Bionic Legs
