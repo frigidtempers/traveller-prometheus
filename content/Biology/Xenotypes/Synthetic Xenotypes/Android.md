@@ -101,7 +101,7 @@ An Unawakened Android cannot gain skills through experience.
 
 ### Unwritten
 
-An Unawakened Android cannot develop relationships. It gains no **Allies, Contacts, Rivals, or Enemies** (take an additional Cash benefit instead of any such result), and it cannot take **Inspiration**.
+An Unawakened Android cannot develop relationships. It gains no **Allies, Contacts, Rivals, or Enemies** (take an additional Cash benefit instead of any such result).
 
 ---
 
