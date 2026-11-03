@@ -156,3 +156,17 @@ Allows meals to be prepared while away from civilization.
 
 **Cost:** Cr75
 **Mass:** 1kg
+
+---
+
+### Chemfuel
+
+_"Smells awful. Mechanents love it."_
+
+Refined hydrocarbon fuel sold in sealed canisters.
+
+**TL:** 5 **Mass:** 0.5kg **Cost:** Cr10 per dose
+
+**Effect:** One dose sustains a **Mechanent** for a day. It has no use as food for other xenotypes and is poisonous if swallowed (**Difficult (10+) END check** or 1D damage).
+
+Fabricated with **Science**.
