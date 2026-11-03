@@ -51,7 +51,7 @@ Mining operations, orbital facilities, Corporate House installations, and major 
 
 ### Mechanent Frame
 
-+1 **STR** and +1 **END**. Mechanents have **Armour +2** from their plating, which stacks with worn armour.
++1 **STR** and +1 **END**. Mechanents have **+2 Protection** from their plating, which stacks with worn armour.
 
 Mechanents are immune to disease and to the effects of pollution.
 
