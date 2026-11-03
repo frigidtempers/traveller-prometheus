@@ -47,23 +47,44 @@ Mining operations, orbital facilities, Corporate House installations, and major 
 
 ---
 
-## Traveller Traits
+## Mechanent Traveller Traits
 
-### Easily Modifiable
+### Mechanent Frame
 
-Once per day, choose **one** of the following modifications:
++1 **STR** and +1 **END**. Mechanents have **Armour +2** from their plating, which stacks with worn armour.
 
-- **Advanced Subroutines:** +1 **INT** and **EDU**
-- **Enhanced Plating:** +1 **STR** and **END**
-- **Ultra-Light Materials:** +1 **DEX** and **Movement Score**
-- **Translation Software:** +1 **SOC** and the ability to speak all known human languages.
-- **Protocol Droid:** +1 to **Advocate** and **Diplomat**.
-- **Repair Subroutines:** +1 to **Engineer** and **Mechanic**.
+Mechanents are immune to disease and to the effects of pollution.
 
-### Battery Operated
+### Give me Fuel, Give me Fire
 
-Mechanents do not require food or water.
+Mechanents do not eat or drink. Instead they run on **Chemfuel** and must consume at least one dose each day. Chemfuel is listed on **Miscellaneous Consumables & Foodstuffs**, and its cost is separate from Standard of Living.
 
-Instead, they must spend **8 hours** each day connected to an appropriate charging source. Failure to recharge causes the Mechanent to become **Fatigued** until sufficient power has been restored.
+Alternatively they can be fueled utilizing alternative energy sources such as a **Solar Panel Array**, and other **Portable Power Systems** that can be found in the **Central Supply Catalogue**. These items however *must* be purchased separately. Should a Traveller choose to be fueled this way 
 
-Mechanents are immune to the effects of aging.
+If a Mechanent goes a day without fuel it becomes **Fatigued**, and each further day without fuel adds another level until it is refueled.
+
+### Memory Defrag
+
+Instead of sleeping, a Mechanent spends **4 hours** each day defragmenting its memory. During this time it is helpless. Failing to do so is treated as going without sleep.
+
+### Needs Air
+
+Despite their construction, Mechanents still depend on oxygen. They suffer the same effects from thin, tainted, or absent atmospheres as organic beings, and cannot survive in a vacuum without a suit.
+
+### Repaired, Not Healed
+
+**Medic** checks and medical drugs do not work on a Mechanent. Instead, a **Mechanic** or **Engineer** check (with tools) repairs damage as a Medic check would heal it, and each attempt uses up **Cr50** of replacement parts.
+
+### Machine Mind
+
+Mechanents are unaffected by drugs of any kind, and cannot become addicted. They cannot form romantic attachments, and do not react to a person's appearance in any way.
+
+Their cold, impersonal manner gives them **-1 SOC**.
+
+### Critical Systems
+
+A Mechanent that is reduced to **0 END** is **destroyed** instead of being rendered unconscious. Its reactor and fluid reprocessor cannot be replaced once lost.
+
+### Component Breakdown
+
+Mechanents are **not** immune to aging. Aging rolls represent component breakdown, and a **Difficult (10+) Mechanic or Engineer check** with **Cr1,000** of parts restores one lost Characteristic point.
