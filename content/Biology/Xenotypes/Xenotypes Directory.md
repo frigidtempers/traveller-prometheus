@@ -19,6 +19,7 @@ This archive classifies all recognized forms of humanity under the designation *
 - [[Bogleg]]
 - [[Dirtmole]]
 - [[Genie]]
+- [[Herdkin]]
 - [[Highmate]]
 - [[Hussar]]
 - [[Impid]]
