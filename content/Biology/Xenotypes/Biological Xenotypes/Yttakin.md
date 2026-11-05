@@ -63,7 +63,7 @@ Choose one of the following animal lineages.
 
 +1 **STR** and **END**
 
-**Lupine**
+**Vulpine**
 
 +1 **INT** and **SOC**
 

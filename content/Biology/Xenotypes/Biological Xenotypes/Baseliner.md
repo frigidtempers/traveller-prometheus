@@ -57,4 +57,4 @@ Imperial settlements, independent outlander communities, tribal societies, pirat
 
 ### Diaspora
 
-May take 1 Optional Trait without needing to replace Natural Talent.
+May take 1 Birth or Upbringing Optional Trait without needing to replace Natural Talent.
