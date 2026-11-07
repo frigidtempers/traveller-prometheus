@@ -76,19 +76,19 @@ Every Misriah firearm is built as an **Advanced Projectile Weapon** (range +25%)
 
 **Recoil:** if a weapon's Recoil is higher than the user's Gun Combat skill, the user takes a negative DM equal to the difference (MFC p.32).
 
-|Weapon|Range|Damage|Kg|Cost|Mag|Ammo (per 100)|Quickdraw|Recoil|Traits|
-|---|---|---|---|---|---|---|---|---|---|
-|MA40 Assault Rifle|340m|3D+2|4.6|Cr2300|36|Cr200|+2|0|AP 3, Auto 3|
-|BR75 Battle Rifle|375m|3D+3|5.3|Cr2450|36|Cr200|+0|0|AP 3, Auto 3 (burst only), Scope|
-|M395B DMR|415m|3D+3|3.9|Cr2000|15|Cr200|+0|-3|AP 3, Scope, DM+1 beyond 100m with scope|
-|VK78 Commando|375m|3D+3|3.8|Cr1450|20|Cr200|-2|0|AP 3, Auto 3, Scope|
-|M20 SMG|25m|2D|3.0|Cr1650|60|Cr60|+0|2|Auto 4|
-|M6C Magnum|15m|3D-1|1.7|Cr1400|12|Cr1000|+6|1|AP 3, Scope|
-|MK50 Sidekick|12m|3D-3|1.4|Cr850|12|Cr150|+8|1|—|
-|SR99-S7 Sniper Rifle|1,560m|5D-2|9.9|Cr11600|4|Cr6000|-6|-3|AP 6, Bulky, Scope, DM+1 beyond 100m with scope|
-|M90A Shotgun (buckshot)|28m|4D|3.4|Cr770|12|Cr150|+0|-2|Bulky, Inaccurate (-2), Lo-Pen 4, Spread 2|
-|M90A Shotgun (HEAP slug)|110m|4D|3.4|Cr770|12|Cr1500|+0|-2|AP 4, Bulky, Inaccurate (-2)|
-|CQS48 Bulldog|12m|4D-4|2.9|Cr1100|7|Cr125|+2|-2|Inaccurate (-2), Lo-Pen 5, Spread 3|
+| Weapon                   | Range  | Damage | Kg  | Cost    | Mag | Mag Cost | Quickdraw | Recoil | Traits                                          |
+| ------------------------ | ------ | ------ | --- | ------- | --- | -------- | --------- | ------ | ----------------------------------------------- |
+| MA40 Assault Rifle       | 340m   | 3D+2   | 4.6 | Cr2300  | 36  | Cr200    | +2        | 0      | AP 3, Auto 3                                    |
+| BR75 Battle Rifle        | 375m   | 3D+3   | 5.3 | Cr2450  | 36  | Cr200    | +0        | 0      | AP 3, Auto 3 (burst only), Scope                |
+| M395B DMR                | 415m   | 3D+3   | 3.9 | Cr2000  | 15  | Cr200    | +0        | -3     | AP 3, Scope, DM+1 beyond 100m with scope        |
+| VK78 Commando            | 375m   | 3D+3   | 3.8 | Cr1450  | 20  | Cr200    | -2        | 0      | AP 3, Auto 3, Scope                             |
+| M20 SMG                  | 25m    | 2D     | 3.0 | Cr1650  | 60  | Cr60     | +0        | 2      | Auto 4                                          |
+| M6C Magnum               | 15m    | 3D-1   | 1.7 | Cr1400  | 12  | Cr1000   | +6        | 1      | AP 3, Scope                                     |
+| MK50 Sidekick            | 12m    | 3D-3   | 1.4 | Cr850   | 12  | Cr150    | +8        | 1      | —                                               |
+| SR99-S7 Sniper Rifle     | 1,560m | 5D-2   | 9.9 | Cr11600 | 4   | Cr6000   | -6        | -3     | AP 6, Bulky, Scope, DM+1 beyond 100m with scope |
+| M90A Shotgun (buckshot)  | 28m    | 4D     | 3.4 | Cr770   | 12  | Cr150    | +0        | -2     | Bulky, Inaccurate (-2), Lo-Pen 4, Spread 2      |
+| M90A Shotgun (HEAP slug) | 110m   | 4D     | 3.4 | Cr770   | 12  | Cr1500   | +0        | -2     | AP 4, Bulky, Inaccurate (-2)                    |
+| CQS48 Bulldog            | 12m    | 4D-4   | 2.9 | Cr1100  | 7   | Cr125    | +2        | -2     | Inaccurate (-2), Lo-Pen 5, Spread 3             |
 
 ### MA40 Assault Rifle
 
