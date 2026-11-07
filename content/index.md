@@ -68,7 +68,7 @@ Reference material covering technology commonly encountered throughout the setti
 
 - [[Weapons]]
     
-- [[Armor]]
+- [[Misriah Mercenary Company Armory]]
     
 - [[Augments]]
     
