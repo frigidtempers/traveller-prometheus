@@ -1,16 +1,17 @@
-> [!info] Orbital Communications Console Uplink
+>[!info] Orbital Communications Console Uplink
+> 
 > **Document Type:** Xenotype Profile
->
+> 
 > **Archive Status:** Active
->
+> 
 > **Classification:** Biological Xenotype
->
+> 
 > **Designation:** Yttakin
->
-> **Origin:** Fenris
->
-> **Variants:** None
->
+> 
+> **Origin:** _(keep your current entry)_
+> 
+> **Variants:** Canid, Felid, Ursid, Mustelid
+> 
 > **Source Reliability:** High
 
 ## Overview
@@ -23,60 +24,108 @@ Their imposing appearance often conceals a culture emphasizing cooperation, endu
 
 ## Biology
 
-Yttakin possess dense fur, heightened physical strength, and exceptional adaptability for a variety of environments. Their senses, particularly hearing and smell, exceed those of most human xenotypes, making them highly effective hunters and wilderness guides.
+Unlike the Herdkin, whose animal traits are limited to ears and tails, Yttakin wear their heritage openly. Most have fur over much of the body, muzzled or partly muzzled faces, predator's eyes, clawed hands and powerful jaws. Each lineage carries the look of its animal: the long snout and bristling ruff of the wolf, the sleek build and slit pupils of the cat, the massive frame of the bear.
 
-However because of their appearance primarily resembling predator animals, rather than more docile prey, and tribal nature gives them a bad reputation among Non-Yttakin as nothing more than man-like beasts waiting to strike once their moment is right.
+Yttakin were engineered to survive where unmodified humans can't. Their dense fur insulates against both bitter cold and searing heat, their enhanced musculature gives them strength and stamina well beyond the human norm, and their bodies weather hunger, thirst and exposure that would break most colonists. Their senses are sharp, and nearly every Yttakin has a natural affinity with animals, which recognise them as one of their own.
+
+The same instincts that make them superb hunters are hard to switch off. A fleeing enemy, the smell of blood, or a challenge to their pride can trigger a chase reflex that even disciplined Yttakin struggle to master.
+
+Their prey counterparts are the **[[Herdkin]]**, with whom they share an uneasy history.
 
 ---
 
 ## Society
 
-Yttakin communities traditionally value mutual support, self-reliance, and stewardship of the natural world.
+Yttakin culture is built on **cooperation, endurance and family**. Households are large and close-knit, often spanning several generations, and the work of survival is shared: everyone hunts, builds, tends the animals and stands watch. Endurance is the highest virtue. A good life is one where you carried your share, and then some, without complaint.
 
-Many work as hunters, ranchers, explorers, and animal handlers, occupations where their physical adaptations and instinctive understanding of animal behavior provide a significant advantage.
+Strangers often expect brutes and find patient, practical people instead. Many Yttakin work as hunters, ranchers, animal handlers, pioneers, guides and guards, though their imposing appearance means they are just as often hired as bodyguards, enforcers and soldiers, whether that suits them or not.
 
 ---
 
 ## Presence on Prometheus
 
-Yttakin can be found anywhere on the planet where there is nature. Though some make their lives within cities working as hunters, farmers, and mercenaries.
+Yttakin are found across the harshest regions of Prometheus, from frozen tundra to desert and badlands, usually in small, self-sufficient family homesteads and low population colonies that other xenotypes would consider unliveable. In the towns, they are a familiar sight as ranchers, beast-tamers and caravan guards.
 
-They are highly respected among some frontier settlements for their ability to survive conditions that would prove fatal to most other xenotypes.
+Many settlements are glad to have them on the walls when raiders come, even if their size and appearance make the neighbours nervous.
 
 ---
 
 ## Traveller Traits
 
-### Beast-like Appearance
+### Predator Lineage
 
-Choose one of the following animal lineages.
+Choose one of the following lineages. Your lineage gives your characteristic bonuses, and its **family** gives your family trait (see Family Traits below).
 
-**Canine**
+**Canid**
 
-+1 **STR** and **INT**
+- **Canine** _(dog, jackal, dingo)_: +1 **STR** and **INT**
+- **Lupine** _(wolf, coyote)_: +1 **INT** and **SOC**
+- **Vulpine** _(fox)_: +1 **DEX** and **SOC**
+- **Hyaenid** _(hyena)_: +1 **END** and **SOC**
 
-**Feline**
+**Felid**
 
-+1 **DEX** and **INT**
+- **Feline** _(cat, lynx, caracal, cheetah)_: +1 **DEX** and **INT**
+- **Pantherine** _(lion, tiger, leopard, jaguar)_: +1 **STR** and **DEX**
 
-**Ursine**
+**Ursid**
 
-+1 **STR** and **END**
+- **Ursine** _(bear)_: +1 **STR** and **END**
 
-**Vulpine**
+**Mustelid**
 
-+1 **INT** and **SOC**
+- **Mustelid** _(badger, wolverine, weasel, mink)_: +1 **DEX** and **END**
 
-**Custom Lineage Rules** Yttakin can come in many different types of species that aren't inherently listed here. Should you wish to play a lineage that is based on an animal that isn't on this list please note the following:
+**Custom Lineage Rules.** Yttakin come from many species not listed here. To play a lineage based on an animal that isn't on this list:
 
-1. Yttakin are primarily predator species meaning carnivores and omnivores. You can not play a Yttakin that is based on a prey animal.
-2. As well as being predators they are specifically based on _land_ predators so no fish or amphibious creatures
-3. All custom lineages are subject to GM approval and the characteristic bonuses can only add up to a total 2 meaning it can either have a +2 in one characteristic or +1 in two characteristics. For clarity this improves the actual characteristic **NOT** the Dice Modifier.
+1. Yttakin are **predators**, meaning carnivores and hunting omnivores. Prey animals belong to the **Herdkin**.
+2. They are based on **land mammals**. Water animals belong to the **Undine**, and reptiles to the **Saurid**.
+3. Choose the **family** your animal is closest to; it gives your family trait.
+4. All custom lineages need GM approval. The characteristic bonuses must total **2**: either +2 in one characteristic, or +1 in two. This improves the actual characteristic, **not** the Dice Modifier.
+
+### Family Traits
+
+**Canid: Pack Hunter**
+
+DM+1 to attack rolls against a target that an ally has attacked this round, or that is engaged in melee with an ally.
+
+**Felid: Pounce**
+
+The first melee attack against a target that is **unaware** of the Yttakin, or that **has not yet acted** in this combat, deals **+1D damage**.
+
+**Ursid: Thick Hide**
+
+**Armour +1** from dense fur and fat, which stacks with worn armour. DM+1 to checks to grapple or to break free of a grapple.
+
+**Mustelid: Ferocity**
+
+While reduced below **half of their Hits**, the Yttakin gains DM+1 to melee attack rolls and cannot be intimidated.
 
 ### Predator's Senses
 
 +1 to **Recon** and **Animals**.
 
+### Hardy Constitution
+
+Yttakin ignore DM penalties from **extreme cold** and **extreme heat**, and gain **DM+2** to END checks to resist **hunger, thirst, exhaustion and exposure**.
+
+### Chase Instinct
+
+-2 DM to checks to resist **provocation, taunting and bloodlust**.
+
+When an enemy within sight **flees**, **breaks away from melee**, or is reduced below **half of their Hits**, the Yttakin must succeed on an **Average (8+) INT check** or spend their next Minor Action **moving toward that enemy**.
+
 ### Bad Reputation
 
--2 DM to **SOC** based Skill checks when interacting with non-Yttakin.
+Their imposing appearance puts strangers on edge. DM-1 to **social checks** (Persuade, Diplomat, Carouse, Broker, Streetwise and similar) with non-Yttakin strangers. The penalty doesn't apply to anyone who has worked or travelled with the Yttakin long enough to know them.
+
+### Natural Weapons _(Optional)_
+
+An Yttakin may take their lineage's natural weapon. Yttakin who do take an additional **-1 to SOC** at character creation.
+
+- **Canid, Fangs:** a bite attack dealing **2D Damage**. On Effect 6+, the target is also grappled.
+- **Felid, Retractable Claws:** a claw attack dealing **2D Damage**. The claws can be retracted and hidden, and require an Average (8+) Recon check to notice.
+- **Ursid, Mauling Claws:** a claw attack dealing **2D Damage**, with DM+1 to attack a target the Yttakin is grappling.
+- **Mustelid, Digging Claws:** a claw attack dealing **2D Damage**. The Yttakin can also dig through soil at half Movement without tools.
+
+---
