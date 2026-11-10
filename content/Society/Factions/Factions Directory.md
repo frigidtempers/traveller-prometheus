@@ -19,7 +19,7 @@ While the factions described below represent the largest documented organization
 
 ## Major Factions
 
-### [[The Empire]]
+### [[The Shattered Empire]]
 
 The Empire maintains a limited but influential presence on Prometheus through noble estates, diplomatic missions, and regional administrators. Although Imperial authority extends beyond the planet, its ability to directly influence local affairs is constrained by the realities of relativistic interstellar travel.
 
