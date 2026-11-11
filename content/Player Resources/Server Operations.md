@@ -1,14 +1,3 @@
-> [!info] Orbital Communications Console Uplink
-> **Document Type:** Player Reference
->
-> **Archive Status:** Active
->
-> **Classification:** Administrative Tools
->
-> **Designation:** UnbelievaBoat Quick Reference
->
-> **Source Reliability:** High
-
 **UnbelievaBoat** is used to track Credits, Downtime, and other campaign resources.
 
 The commands below are the primary commands players will need during the campaign.

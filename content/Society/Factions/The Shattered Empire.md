@@ -7,16 +7,13 @@
 > **Scope:** The Shattered Empire, Imperial Law, and Imperial Settlements on Prometheus
 > 
 > **Source Reliability:** High (compiled from Imperial legal codes and Traveller testimony)
-
----
-
 ## An Empire in Name
 
 The Empire that rose from the ashes of Sophiamunda is not what it once was. What calls itself the Empire today is a **collection of planet-states** ruled by noble houses. They still fly the old banners, still use the old titles, and still insist that they are one great and undivided realm.
 
 They are not. Each world governs itself, keeps its own armies and pursues its own interests. The Imperial Throne is respected, invoked and sworn to, but distance and relativistic travel mean its commands arrive slowly, if they arrive at all. Like the late empires of old Earth, the Shattered Empire lives on its name, its rituals and its memory of greatness, long after the reality behind them has fractured.
 
-The pretense still matters. The banner of the Empire is what gives each lord the right to rule, so no house will let it go.
+The pretence still matters. The banner of the Empire is what gives each lord the right to rule, so no house will let it go.
 
 ---
 
@@ -43,7 +40,7 @@ A Stellarch's word is law in their region. Laws, bans and bounties can differ fr
 
 ### Who Made These Laws?
 
-**The Stellarch.** The laws enforced in the Imperial settlements on Prometheus were decreed by the Stellarch whose region includes Prometheus, in the name of the Throne. Imperial officials won't hear them questioned. To them, an edict from the Stellarch carries the full weight of the Emperor's own word, however harsh it is.
+**Stellarch Cassian Aurelios.** The laws enforced in the Imperial settlements on Prometheus were decreed by Cassian Aurelios, the Stellarch whose region includes Prometheus, in the name of the Throne. Imperial officials won't hear them questioned. To them, an edict from the Stellarch carries the full weight of the Emperor's own word, however harsh it is.
 
 ### One Legitimate Government
 
